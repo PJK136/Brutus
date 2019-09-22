@@ -1,4 +1,4 @@
-# [Brutus](https://github.com/PLD-H4111-COMP/Brutus) [![Build Status](https://travis-ci.com/PLD-H4111-COMP/Brutus.svg?branch=master)](https://travis-ci.com/PLD-H4111-COMP/Brutus)
+# [Brutus](https://github.com/PLD-H4111/Brutus) [![Build Status](https://travis-ci.com/PLD-H4111/Brutus.svg?branch=master)](https://travis-ci.com/PLD-H4111/Brutus)
 
 Brutus is a C compiler written in C++11 that supports :
 - The following types : `void`, `char` (1 byte), `int` (8 bytes), `int16_t` (2 bytes), `int32_t` (4 bytes), `int64_t` (8 bytes).
